@@ -7,7 +7,7 @@ The process of annotating an RTF document typically involves adding comments, hi
 1. Open the RTF document: Use a compatible word processing software such as Microsoft Word, Google Docs, or LibreOffice to open the RTF document.
 
 2. Read the document: Familiarize yourself with the content of the document to understand its structure and identify areas that require annotation.
-Hey i am kn
+
 3. Add comments: Most word processing software allows you to add comments to specific sections of the document. Select the text you want to annotate, right-click, and choose the option to insert a comment. Alternatively, you can use the comment feature available in the software's toolbar or menu.
 
 4. Provide annotations: In the comment or annotation section, type your additional information, insights, or explanations related to the selected text. Make sure your annotations are clear and concise, providing relevant context or insights.
